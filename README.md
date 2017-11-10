@@ -2,3 +2,4 @@
 
 #### Les Master
 * Alixe
+* Thiago
